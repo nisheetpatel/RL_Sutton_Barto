@@ -92,7 +92,7 @@ def exercise_2_11(runs=700, time=200000):
 
 
 if __name__ == "__main__":
-    #print("Plotting exercise_2.5")
-    #exercise_2_5(10,10)
-    print("Plotting exercise_2.11")
-    exercise_2_11()
+    print("Plotting exercise_2.5")
+    exercise_2_5()
+    #print("Plotting exercise_2.11")
+    #exercise_2_11()
